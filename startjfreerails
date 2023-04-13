@@ -1,0 +1,3 @@
+#!/bin/bash
+java -jar jfreerails-0.2.8.jar
+exit 0
